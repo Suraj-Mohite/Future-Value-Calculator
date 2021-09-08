@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    border: 2px solid black;
+    padding: 10px;
+    box-shadow: 5px 10px 8px rgb(175, 171, 171);
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
